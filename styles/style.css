@@ -1,9 +1,10 @@
 h1 {
-  
+  color: #fa0201;
+  font-family: Starjedi;
 }
 
 h2{
-
+    color: #fa0201;
 }
 
 ul{
@@ -11,7 +12,7 @@ ul{
 }
 
 li{
-
+    color: #fa0201;
 }
 
 .passies{
@@ -20,4 +21,9 @@ li{
 
 .emmer{
     
+}
+
+@font-face {
+    font-family: Starjedi;
+    src:url(starjhol.ttf);
 }
